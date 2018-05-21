@@ -1,1 +1,3 @@
-# mapJS
+## 1. Proceduralnie generowany świat.
+
+Celem projektu jest stworzenie generatora, który z pomocą seed’a wyrysuje na canvie tereny, który swoim wyglądem będzie przypominać średniowieczne tereny. Do stworzenia programu użyję HTML(szkielet), CSS(wygląd), JS(logika gry i wygląd). Wykorzystuję również bibliotekę processingJS. Korzystając z szumu perlina, algorytm generuje już prostą mapę, na której znajdują się rzeki, oceny, wyżyny, i płaskie tereny. Jednym z większych problemów na jakie natrafiłem jest generowanie miasta. Ciężko jest mi wymyślić/znaleźć algorytm, który tworzyłby tereny, które przypominałyby te, które można było spotkać w średniowieczu. W przyszłości będę rysował na canvie również lasy/pola itp. rzeczy, które urealnią mapę. 
